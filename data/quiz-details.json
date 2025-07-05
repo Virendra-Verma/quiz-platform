@@ -1,0 +1,86 @@
+{
+  "1": {
+    "id": 1,
+    "title": "World War II Quiz",
+    "questions": [
+      { 
+        "question": "When did World War II start?", 
+        "options": ["1935", "1939", "1941", "1943"], 
+        "answer": "1939" 
+      },
+      { 
+        "question": "Which country was invaded by Germany to start WWII?", 
+        "options": ["France", "Poland", "Belgium", "Czechoslovakia"], 
+        "answer": "Poland" 
+      },
+      { 
+        "question": "What was the code name for the D-Day invasion?", 
+        "options": ["Operation Barbarossa", "Operation Overlord", "Operation Torch", "Operation Market Garden"], 
+        "answer": "Operation Overlord" 
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "Physics Fundamentals Quiz",
+    "questions": [
+      { 
+        "question": "What is the speed of light in a vacuum?", 
+        "options": ["3×10^8 m/s", "1×10^6 m/s", "2×10^8 m/s", "4×10^8 m/s"], 
+        "answer": "3×10^8 m/s" 
+      },
+      { 
+        "question": "What is the unit of force?", 
+        "options": ["Joule", "Newton", "Watt", "Pascal"], 
+        "answer": "Newton" 
+      },
+      { 
+        "question": "What is the acceleration due to gravity on Earth?", 
+        "options": ["9.8 m/s²", "8.9 m/s²", "10.2 m/s²", "11.1 m/s²"], 
+        "answer": "9.8 m/s²" 
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "title": "Basic Algebra Quiz",
+    "questions": [
+      { 
+        "question": "Solve for x: x + 2 = 5", 
+        "options": ["2", "3", "4", "5"], 
+        "answer": "3" 
+      },
+      { 
+        "question": "What is 2x + 3 = 11?", 
+        "options": ["x = 3", "x = 4", "x = 5", "x = 6"], 
+        "answer": "x = 4" 
+      },
+      { 
+        "question": "If y = 2x + 1, what is y when x = 3?", 
+        "options": ["5", "6", "7", "8"], 
+        "answer": "7" 
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "title": "JavaScript Basics Quiz",
+    "questions": [
+      { 
+        "question": "What does 'typeof null' return in JavaScript?", 
+        "options": ["null", "undefined", "object", "string"], 
+        "answer": "object" 
+      },
+      { 
+        "question": "Which method is used to add an element to the end of an array?", 
+        "options": ["push()", "pop()", "shift()", "unshift()"], 
+        "answer": "push()" 
+      },
+      { 
+        "question": "What is the correct way to declare a variable in JavaScript?", 
+        "options": ["var x = 5;", "variable x = 5;", "declare x = 5;", "x := 5;"], 
+        "answer": "var x = 5;" 
+      }
+    ]
+  }
+}
